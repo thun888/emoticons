@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,6 +11,7 @@
     <!-- Artalk JS -->
     <script src="https://artalk.hzchu.top/dist/Artalk.js"></script>
 </head>
+
 <body>
     <div class="container mt-5">
         <h1 class="text-center">Emoticons Collect</h1>
@@ -36,16 +38,16 @@
         <div class="container mt-5">
             <div id="Comments"></div>
             <script>
-            Artalk.init({
-                el:        '#Comments',              // 绑定元素的 Selector
-                server:    'https://artalk.hzchu.top',  // 后端地址
-                site:      'Emoticons',           // 你的站点名
-                title:      'Emoticons',
-                placeholder: '这是一个demo...\n点击表情按钮查看所有表情(～￣▽￣)～',
-                emoticons: 'https://emoticons.hzchu.top/json/artalk_all.json',
-                useBackendConf: false,
-                locale: "zh-CN"
-            })
+                Artalk.init({
+                    el: '#Comments',              // 绑定元素的 Selector
+                    server: 'https://artalk.hzchu.top',  // 后端地址
+                    site: 'Emoticons',           // 你的站点名
+                    title: 'Emoticons',
+                    placeholder: '这是一个demo...\n点击表情按钮查看所有表情(～￣▽￣)～',
+                    emoticons: 'https://emoticons.hzchu.top/json/artalk_all.json',
+                    useBackendConf: false,
+                    locale: "zh-CN"
+                })
             </script>
         </div>
 
@@ -84,6 +86,34 @@
     </div>
 
     <!-- <script src="https://static.hzchu.top/bootstrap/4.3.1/js/bootstrap.min.js"></script> -->
+    <style>
+        .atk-grp-switcher {
+            display: flex;
+            overflow-x: auto;
+            overflow-y: hidden;
+            /* Hide vertical scrollbar */
+            white-space: nowrap;
+            height: 35px !important;
+            /* You can adjust this value */
+        }
 
+        /* Hide default scrollbar */
+        .atk-grp-switcher::-webkit-scrollbar {
+            height: 5px;
+            /* Height of scrollbar */
+        }
+
+        /* Customize scrollbar track */
+        .atk-grp-switcher::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        /* Customize scrollbar thumb */
+        .atk-grp-switcher::-webkit-scrollbar-thumb {
+            background-color: var(--at-color-main);
+            border-radius: 3px;
+        }
+    </style>
 </body>
+
 </html>
