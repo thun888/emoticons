@@ -19,6 +19,7 @@
 | Capoo        | capoo_world    | https://t.me/addstickers/capoo_world123_by_moe_sticker_bot   |
 | 克莱恩礼帽猫 | kelaien_cat    | https://t.me/addstickers/kelaien_cat_by_moe_sticker_bot      |
 | 抹茶旦旦2    | mochadandan2   | https://t.me/addstickers/mochadandan2                        |
+| 小熊虫3 | xiaoxiongchong3 | 微信@小熊虫com |
 
 ## 自托管
 
