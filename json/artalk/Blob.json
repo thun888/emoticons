@@ -287,6 +287,10 @@
             "val": "https://emoticons.hzchu.top/emoticons/Blob/bouncefast.png"
         },
         {
+            "key": "cats",
+            "val": "https://emoticons.hzchu.top/emoticons/Blob/cats.png"
+        },
+        {
             "key": "comfynight",
             "val": "https://emoticons.hzchu.top/emoticons/Blob/comfynight.png"
         },
@@ -297,6 +301,10 @@
         {
             "key": "comfyuee",
             "val": "https://emoticons.hzchu.top/emoticons/Blob/comfyuee.png"
+        },
+        {
+            "key": "meow_blush",
+            "val": "https://emoticons.hzchu.top/emoticons/Blob/meow_blush.png"
         },
         {
             "key": "meow_headache",
