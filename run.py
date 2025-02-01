@@ -67,7 +67,7 @@ for folder in folders:
         key = aliases.get(filename) if aliases.get(filename) else file_name_without_extension
 
         items.append({
-            "key": key,
+            "key": folder + "_" +key,
             "val": url
         })
 
