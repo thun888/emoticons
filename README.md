@@ -21,6 +21,7 @@
 | 抹茶旦旦2    | mochadandan2   | https://t.me/addstickers/mochadandan2                        |
 | 小熊虫3 | xiaoxiongchong3 | 微信@小熊虫com |
 | 阿龙来咯 | feilong | https://t.me/addstickers/in_FDCFDC_by_NaiDrawBot |
+| Strange_Fox | Strange_Fox | https://t.me/addstickers/Strange_Fox_by_moe_sticker_bot |
 
 ## 自托管
 
