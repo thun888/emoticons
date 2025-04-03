@@ -149,7 +149,7 @@
                             emoticons.forEach(emoticon => {
                                 const emoticonDiv = document.createElement('div');
                                 emoticonDiv.className = 'col-md-4 mb-4';
-                                const displayUrl = `https://emoticons.hzchu.top/json/display/${emoticon.english_name}.json`;
+                                const displayUrl = `https://emoticons.hzchu.top/json/artalk/${emoticon.english_name}.json`;
                                 emoticonDiv.innerHTML = `
                                     <div class="card cursor-pointer" style="cursor: pointer;" onclick="showEmoticons('${emoticon.english_name}', '${emoticon.chinese_name}')">
                                         <div class="card-body">
