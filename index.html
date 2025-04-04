@@ -13,6 +13,10 @@
     <!-- 添加 Bootstrap JS 和 jQuery -->
     <script src="https://static.hzchu.top/jquery/3.2.1/files/dist/jquery.min.js"></script>
     <script src="https://static.hzchu.top/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // 获取当前域名
+        const currentDomain = window.location.hostname;
+    </script>
 </head>
 
 <body>
@@ -53,7 +57,7 @@
                     site: 'Emoticons',
                     title: 'Emoticons',
                     placeholder: '这是一个demo...\n点击表情按钮查看所有表情(～￣▽￣)～',
-                    emoticons: 'https://emoticons.hzchu.top/json/artalk_all.json',
+                    emoticons: `https://${currentDomain}/json/artalk_all.json`,
                     useBackendConf: false,
                     locale: "zh-CN"
                 })
@@ -149,7 +153,7 @@
                             emoticons.forEach(emoticon => {
                                 const emoticonDiv = document.createElement('div');
                                 emoticonDiv.className = 'col-md-4 mb-4';
-                                const displayUrl = `https://emoticons.hzchu.top/json/artalk/${emoticon.english_name}.json`;
+                                const displayUrl = `https://${currentDomain}/json/artalk/${emoticon.english_name}.json`;
                                 emoticonDiv.innerHTML = `
                                     <div class="card cursor-pointer" style="cursor: pointer;" onclick="showEmoticons('${emoticon.english_name}', '${emoticon.chinese_name}')">
                                         <div class="card-body">
@@ -183,7 +187,7 @@
                         Object.entries(data.aliases).forEach(([filename, alias]) => {
                             const emoticonItem = document.createElement('div');
                             emoticonItem.className = 'col-md-3 col-sm-4 col-6 mb-3 text-center';
-                            const imageUrl = `https://emoticons.hzchu.top/emoticons/${englishName}/${filename}`;
+                            const imageUrl = `https://${currentDomain}/emoticons/${englishName}/${filename}`;
                             emoticonItem.innerHTML = `
                                 <div class="card h-100 cursor-pointer" onclick="showEmoticonDetail('${imageUrl}', '${alias || filename}')">
                                     <img src="${imageUrl}" class="card-img-top p-2" alt="${alias || filename}" style="object-fit: contain; height: 100px;">
