@@ -1,5 +1,114 @@
 {
-    "name": "capoo",
+    "name": "咖波",
     "type": "image",
-    "items": []
+    "items": [
+        {
+            "key": "capoo_color",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/color.gif"
+        },
+        {
+            "key": "capoo_shake",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/shake.gif"
+        },
+        {
+            "key": "capoo_second",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/second.gif"
+        },
+        {
+            "key": "capoo_ahhh",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/ahhh.gif"
+        },
+        {
+            "key": "capoo_spare",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/spare.gif"
+        },
+        {
+            "key": "capoo_shocked",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/shocked.gif"
+        },
+        {
+            "key": "capoo_write",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/write.gif"
+        },
+        {
+            "key": "capoo_love",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/love.gif"
+        },
+        {
+            "key": "capoo_fake",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/fake.gif"
+        },
+        {
+            "key": "capoo_whimper",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/whimper.gif"
+        },
+        {
+            "key": "capoo_rain",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/rain.gif"
+        },
+        {
+            "key": "capoo_love2",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/love2.gif"
+        },
+        {
+            "key": "capoo_happy",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/happy.gif"
+        },
+        {
+            "key": "capoo_love3",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/love3.gif"
+        },
+        {
+            "key": "capoo_work",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/work.gif"
+        },
+        {
+            "key": "capoo_whoa",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/whoa.gif"
+        },
+        {
+            "key": "capoo_catch",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/catch.gif"
+        },
+        {
+            "key": "capoo_intrigued",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/intrigued.gif"
+        },
+        {
+            "key": "capoo_cry",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/cry.gif"
+        },
+        {
+            "key": "capoo_sleep",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/sleep.gif"
+        },
+        {
+            "key": "capoo_poke",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/poke.gif"
+        },
+        {
+            "key": "capoo_question",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/question.gif"
+        },
+        {
+            "key": "capoo_butt",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/butt.gif"
+        },
+        {
+            "key": "capoo_admire",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/admire.gif"
+        },
+        {
+            "key": "capoo_kudos",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/kudos.gif"
+        },
+        {
+            "key": "capoo_friend",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/friend.gif"
+        },
+        {
+            "key": "capoo_happynow",
+            "val": "https://cdn.jsdelivr.net/gh/infinitesum/emoticons@master/emoticons/capoo/happynow.gif"
+        }
+    ]
 }
