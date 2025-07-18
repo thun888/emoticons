@@ -1,0 +1,28 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull latest repository
+        uses: actions/checkout@v4
+
+      - name: Run Python script to get Bing image
+        run: python build.py
+
+      - name: Commit and push to page branch
+        run: |
+          cp -r json emoticons index.html 404.html CNAME favicon.ico vercel.json page/
+          cd page
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b page
+          git add .
+          git commit -m "GitHub Actions Crawler ALL IN ONE at $(date +'%Y-%m-%d %H:%M:%S')"
+          git push --force https://x-access-token:${{ secrets.GIT_TOKEN }}@github.com/${{ github.repository }}.git page
