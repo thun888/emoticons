@@ -12,11 +12,12 @@ jobs:
       - name: Pull latest repository
         uses: actions/checkout@v4
 
-      - name: Run Python script to get Bing image
+      - name: Run Python script
         run: python build.py
 
       - name: Commit and push to page branch
         run: |
+          mkdir -p page
           cp -r json emoticons index.html 404.html CNAME favicon.ico vercel.json page/
           cd page
           git init
@@ -24,5 +25,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b page
           git add .
-          git commit -m "GitHub Actions Crawler ALL IN ONE at $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "GitHub Actions at $(date +'%Y-%m-%d %H:%M:%S')"
           git push --force https://x-access-token:${{ secrets.GIT_TOKEN }}@github.com/${{ github.repository }}.git page
