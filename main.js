@@ -15,7 +15,7 @@
                                     <div class="card cursor-pointer" style="cursor: pointer;" onclick="showEmoticons('${emoticon.english_name}', '${emoticon.chinese_name}')">
                                         <div class="card-body">
                                             <h5 class="card-title">${emoticon.chinese_name} (${emoticon.english_name})</h5>
-                                            <p class="card-text">来源: <a href="${emoticon.source}" target="_blank" onclick="event.stopPropagation()">${emoticon.source}</a></p>
+                                            <p class="card-text">来源: <a href="${emoticon.source}" target="_blank" rel="nofollow noopener noreferrer" onclick="event.stopPropagation()">${emoticon.source}</a></p>
                                             <p class="card-text">描述: ${emoticon.source_description || '暂无描述'}</p>
                                             <p class="card-text">路径: /emoticons/${emoticon.english_name}/</p>
                                             <p class="card-text">引用链接: <a href="${displayUrl}" target="_blank" onclick="event.stopPropagation()">${displayUrl}</a></p>
@@ -67,8 +67,8 @@
             function showEmoticonDetail(imageUrl, name) {
                 // 更新预览图
                 const previewImage = document.getElementById('previewImage');
-                let imageUrl = previewImage.src;
-                let name = previewImage.alt;
+                previewImage.src = imageUrl;
+                previewImage.alt = name;
                 let emoticon = previewImage.dataset.atkEmoticon;
 
                 // 更新模态框标题
