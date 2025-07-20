@@ -2,7 +2,7 @@ import os
 import json
 import shutil
 import yaml
-
+from tqdm import tqdm
 # 域名
 domain = "emoticons.hzchu.top"
 
@@ -31,7 +31,7 @@ artalk_all_data = []
 display_all_data = []
 
 # 遍历每个文件夹并生成 JSON 文件
-for folder in folders:
+for folder in tqdm(folders):
     folder_path = os.path.join(emoticons_dir, folder)
     items = []
     name = folder  # 默认 name 为文件夹名称
@@ -82,7 +82,7 @@ for folder in folders:
     json_filename = os.path.join(json_dir, "artalk", f"{folder}.json")
     with open(json_filename, 'w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, ensure_ascii=False, indent=4)
-    print(f"生成了 {json_filename} 文件")
+    # print(f"生成了 {json_filename} 文件")
 
     # 记录 artalk JSON 文件的引用路径
     artalk_all_data.append(f"https://{domain}/{os.path.relpath(json_filename, current_dir).replace(os.sep, '/')}")
@@ -93,7 +93,7 @@ for folder in folders:
         json.dump(config_data, display_json_file, ensure_ascii=False, indent=4)
     display_all_data.append(f"https://{domain}/{os.path.relpath(display_json_filename, current_dir).replace(os.sep, '/')}")
 
-    print(f"生成了 {display_json_filename} 文件")
+    # print(f"生成了 {display_json_filename} 文件")
 
 # 生成 artalk_all.json 文件
 artalk_all_filename = os.path.join(json_dir, "artalk_all.json")
@@ -105,7 +105,7 @@ display_all_filename = os.path.join(json_dir, "display_all_list.json")
 with open(display_all_filename, 'w', encoding='utf-8') as display_all_file:
     json.dump(display_all_data, display_all_file, ensure_ascii=False, indent=4)
 
-print(f"生成了 {display_all_filename} 文件")
+# print(f"生成了 {display_all_filename} 文件")
 
 # 合并 display 目录下的所有 JSON 文件为 display_all.json
 display_all_merged = {}
@@ -122,4 +122,4 @@ display_all_merged_filename = os.path.join(json_dir, 'display_all.json')
 with open(display_all_merged_filename, 'w', encoding='utf-8') as display_all_merged_file:
     json.dump(display_all_merged, display_all_merged_file, ensure_ascii=False, indent=4)
 
-print(f"生成了 {display_all_merged_filename} 文件")
+# print(f"生成了 {display_all_merged_filename} 文件")

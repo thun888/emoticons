@@ -14,16 +14,23 @@
 
                                 let sourceHTML;
                                 if (emoticon.source.startsWith('http')) {
-                                sourceHTML = `<a href="${emoticon.source}" target="_blank" rel="nofollow noopener noreferrer" onclick="event.stopPropagation()">${emoticon.source}</a>`;
+                                    // 提取域名
+                                    sourceDisplay = emoticon.source.split('/')[2];
+                                sourceHTML = `<a href="${emoticon.source}" target="_blank" rel="nofollow noopener noreferrer" onclick="event.stopPropagation()">${sourceDisplay}</a>`;
                                 } else {
                                 sourceHTML = emoticon.source || '暂无来源';
                                 }
 
 
+                                // 随机展示
+                                let maxValue = Object.keys(emoticon.aliases).length;
+                                let randomValue = Math.floor(Math.random() * maxValue);
+                                let [randomName, randomAlias] = Object.entries(emoticon.aliases)[randomValue];
+                                let randomImageUrl = `${currentOrigin}/emoticons/${emoticon.english_name}/${randomName}`;
                                 emoticonDiv.innerHTML = `
                                     <div class="card cursor-pointer" style="cursor: pointer;" onclick="showEmoticons('${emoticon.english_name}', '${emoticon.chinese_name}')">
                                         <div class="card-body">
-                                            <h5 class="card-title">${emoticon.chinese_name} (${emoticon.english_name})</h5>
+                                            <h5 class="card-title">${emoticon.chinese_name} (${emoticon.english_name})<img src="${randomImageUrl}" alt="${randomAlias}" style="height: 1.5em; margin-left: 0.5em;"></h5>
                                             <p class="card-text">来源: ${sourceHTML}</p>
                                             <p class="card-text">描述: ${emoticon.source_description || '暂无描述'}</p>
                                             <p class="card-text">路径: /emoticons/${emoticon.english_name}/</p>
