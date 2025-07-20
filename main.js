@@ -10,12 +10,21 @@
                             emoticons.forEach(emoticon => {
                                 const emoticonDiv = document.createElement('div');
                                 emoticonDiv.className = 'col-md-4 mb-4';
-                                const displayUrl = `https://${currentDomain}/json/artalk/${emoticon.english_name}.json`;
+                                const displayUrl = `${currentOrigin}/json/artalk/${emoticon.english_name}.json`;
+
+                                let sourceHTML;
+                                if (emoticon.source.startsWith('http')) {
+                                sourceHTML = `<a href="${emoticon.source}" target="_blank" rel="nofollow noopener noreferrer" onclick="event.stopPropagation()">${emoticon.source}</a>`;
+                                } else {
+                                sourceHTML = emoticon.source || '暂无来源';
+                                }
+
+
                                 emoticonDiv.innerHTML = `
                                     <div class="card cursor-pointer" style="cursor: pointer;" onclick="showEmoticons('${emoticon.english_name}', '${emoticon.chinese_name}')">
                                         <div class="card-body">
                                             <h5 class="card-title">${emoticon.chinese_name} (${emoticon.english_name})</h5>
-                                            <p class="card-text">来源: <a href="${emoticon.source}" target="_blank" rel="nofollow noopener noreferrer" onclick="event.stopPropagation()">${emoticon.source}</a></p>
+                                            <p class="card-text">来源: ${sourceHTML}</p>
                                             <p class="card-text">描述: ${emoticon.source_description || '暂无描述'}</p>
                                             <p class="card-text">路径: /emoticons/${emoticon.english_name}/</p>
                                             <p class="card-text">引用链接: <a href="${displayUrl}" target="_blank" onclick="event.stopPropagation()">${displayUrl}</a></p>
@@ -44,11 +53,10 @@
                         Object.entries(data.aliases).forEach(([filename, alias]) => {
                             const emoticonItem = document.createElement('div');
                             emoticonItem.className = 'col-md-3 col-sm-4 col-6 mb-3 text-center';
-                            const imageUrl = `https://${currentDomain}/emoticons/${englishName}/${filename}`;
-                            const atkEmoticon = englishName + "_" + filename.split('.')[0];
+                            const imageUrl = `${currentOrigin}/emoticons/${englishName}/${filename}`;
                             emoticonItem.innerHTML = `
-                                <div class="card h-100 cursor-pointer" onclick="showEmoticonDetail('${imageUrl}', '${alias || filename}')">
-                                    <img src="${imageUrl}" class="card-img-top p-2" alt="${alias || filename}" style="object-fit: contain; height: 100px;" data-atk-emoticon="${atkEmoticon}">
+                                <div class="card h-100 cursor-pointer" onclick="showEmoticonDetail('${currentOrigin}/emoticons/', '${englishName}', '${filename}', '${alias || filename}')">
+                                    <img src="${imageUrl}" class="card-img-top p-2" alt="${alias || filename}" style="object-fit: contain; height: 100px;">
                                     <div class="card-body p-2">
                                         <p class="card-text small mb-0">${alias || filename}</p>
                                     </div>
@@ -64,12 +72,13 @@
             }
 
             // 显示表情详情（二级模态框）
-            function showEmoticonDetail(imageUrl, name) {
+            function showEmoticonDetail(baseUrl, englishName, filename, name) {
                 // 更新预览图
+                const imageUrl = `${baseUrl}${englishName}/${filename}`;
                 const previewImage = document.getElementById('previewImage');
                 previewImage.src = imageUrl;
                 previewImage.alt = name;
-                let emoticon = previewImage.dataset.atkEmoticon;
+                const atkEmoticon = englishName + "_" + filename.split('.')[0];
 
                 // 更新模态框标题
                 const detailModalTitle = document.getElementById('emoticonDetailModalLabel');
@@ -80,7 +89,7 @@
                 document.getElementById('markdownLink').value = `![${name}](${imageUrl})`;
                 document.getElementById('htmlLink').value = `<img src="${imageUrl}" alt="${name}">`;
                 document.getElementById('bbcodeLink').value = `[img]${imageUrl}[/img]`;
-                document.getElementById('artalkLink').value = `<img src="${imageUrl}" atk-emoticon="${emoticon}">`;
+                document.getElementById('artalkLink').value = `<img src="${imageUrl}" atk-emoticon="${atkEmoticon}">`;
 
                 // 显示二级模态框
                 const detailModal = new bootstrap.Modal(document.getElementById('emoticonDetailModal'));
@@ -97,3 +106,19 @@
                 const toast = new bootstrap.Toast(document.getElementById('copyToast'));
                 toast.show();
             }
+
+
+
+            function initArtalk() {
+                const emoticonLink = document.getElementById('emoticonLink').value;
+                Artalk.init({
+                    el: '#Comments',
+                    server: 'https://artalk.hzchu.top',
+                    site: 'Emoticons',
+                    title: 'Emoticons',
+                    placeholder: '这是一个demo...\n点击表情按钮查看表情(～￣▽￣)～',
+                    emoticons: `${emoticonLink}`,
+                    useBackendConf: false,
+                    locale: "zh-CN"
+                })
+            }   

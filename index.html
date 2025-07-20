@@ -13,10 +13,7 @@
     <!-- 添加 Bootstrap JS 和 jQuery -->
     <script src="https://static.hzchu.top/jquery/3.2.1/files/dist/jquery.min.js"></script>
     <script src="https://static.hzchu.top/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
-    <script>
-        // 获取当前域名
-        const currentDomain = window.location.hostname;
-    </script>
+    <script>const currentOrigin = window.location.origin;</script>
 </head>
 
 <body>
@@ -46,23 +43,19 @@
             <h4 class="text-center">一览</h4>
             <div class="row" id="emoticons-list"></div>
         </div>
-
+        <!-- 表情包链接测试 输入框-->
+        <div class="container mt-5">
+            <h4 class="text-center" style="margin-bottom: 20px;">表情包实际使用预览</h4>
+            <div class="input-group mb-3">
+                <span class="input-group-text">表情包链接</span>
+                <input type="text" class="form-control" id="emoticonLink" placeholder="请输入表情包链接">
+                <button class="btn btn-outline-primary" onclick="initArtalk()">初始化</button>
+            </div>
+        </div>
         <!-- Artalk -->
-        <!-- <div class="container mt-5">
+        <div class="container mt-5">
             <div id="Comments"></div>
-            <script>
-                Artalk.init({
-                    el: '#Comments',
-                    server: 'https://artalk.hzchu.top',
-                    site: 'Emoticons',
-                    title: 'Emoticons',
-                    placeholder: '这是一个demo...\n点击表情按钮查看所有表情(～￣▽￣)～',
-                    emoticons: `https://${currentDomain}/json/artalk_all.json`,
-                    useBackendConf: false,
-                    locale: "zh-CN"
-                })
-            </script>
-        </div> -->
+        </div>
 
         <!-- 一级模态框 - 表情包列表 -->
         <div class="modal fade" id="emoticonModal" tabindex="-1" aria-labelledby="emoticonModalLabel" aria-hidden="true">
@@ -142,6 +135,13 @@
                     <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="关闭"></button>
                 </div>
             </div>
+        </div>
+
+        <!-- 悬浮球 -->
+        <div class="floating-ball" onclick="scrollToBottom()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293z"/>
+            </svg>
         </div>
 
         <!-- 读取并展示表情包的 JavaScript -->
@@ -231,7 +231,44 @@
         #emoticonDetailModal .modal-body {
             padding: 2rem;
         }
+
+        /* 悬浮球样式 */
+        .floating-ball {
+            position: fixed;
+            right: 20px;
+            bottom: 80px;
+            width: 50px;
+            height: 50px;
+            background-color: #6bb418;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            color: white;
+            z-index: 1000;
+        }
+
+        .floating-ball:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        a {
+            color: #6bb418;
+        }
     </style>
+    <script src="https://seeyou.hzchu.top/api/script.js" data-site-id="3" defer></script>
+    <script>
+      // 滚动到底部函数
+      function scrollToBottom() {
+        window.scrollTo({
+          top: document.documentElement.scrollHeight,
+          behavior: 'smooth'
+        });
+      }
+    </script>
 </body>
 
 </html>

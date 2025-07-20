@@ -10,9 +10,9 @@
 
 | 名称         | 路径           | 出处/来源                                                    |
 | ------------ | -------------- | ------------------------------------------------------------ |
-| azukisan     | azukisan       | 由[Summer](https://www.flyalready.cn/)整理                   |
-| Blob         | Blob           | 由[Summer](https://www.flyalready.cn/)整理                   |
-| neko         | neko           | 由[Summer](https://www.flyalready.cn/)整理                   |
+| azukisan     | azukisan       | 由[Summer](https://www.flyalready.com/)整理                   |
+| Blob         | Blob           | 由[Summer](https://www.flyalready.com/)整理                   |
+| neko         | neko           | 由[Summer](https://www.flyalready.com/)整理                   |
 | 小恐龙       | littledinosaur | https://t.me/addstickers/reaalLittleDinosaurHD               |
 | 什么猫       | wtfcat         | https://t.me/addstickers/wtfcat2                             |
 | 多洛狼       | dorow0lf   | https://t.me/addstickers/sticker_6f2be407_by_moe_sticker_bot |
