@@ -12,7 +12,7 @@
 
 本项目会收集一些表情包并提供 Artalk 形式的表情引用（位于 page 分支的 json/ 文件夹内）。通过 GitHub Actions 实现自动化，新增表情包后可自动更新 JSON 配置文件和预览页面。
 
-托管于自有服务器上，加载速度尚可😺
+托管于Github Page上，并使用腾讯云Edge One反代加速
 
 <img width="1452" height="798" alt="image" src="https://github.com/user-attachments/assets/cf6580ff-0ff4-42a7-ad47-f2cbca48ff8b" />
 
