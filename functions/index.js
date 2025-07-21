@@ -8,6 +8,7 @@ export async function onRequestGet(event) {
   const cachedResponse = await cache.match(cacheKey);
   if (cachedResponse) {
     console.log('缓存命中');
+    cachedResponse.headers.append('x-edgefunctions-cache', 'HIT');
     return cachedResponse;
   }
 
