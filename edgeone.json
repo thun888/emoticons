@@ -1,0 +1,35 @@
+{
+  "headers": [
+    {
+      "source": "/*",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Access-Control-Allow-Methods",
+          "value": "GET,POST"
+        },
+        {
+          "key": "Access-Control-Allow-Headers",
+          "value": "Authorization"
+        },
+        {
+          "key": "Access-Control-Max-Age",
+          "value": "2592000"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=2592000,immutable"
+        }
+      ]
+    }
+  ],
+  "caches": [
+    {
+      "source": "/*",
+      "cacheTtl": 2592000
+    }
+  ]
+}
