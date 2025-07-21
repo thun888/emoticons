@@ -31,3 +31,8 @@ jobs:
           git add .
           git commit -m "GitHub Actions at $(date +'%Y-%m-%d %H:%M:%S')"
           git push --force https://x-access-token:${{ secrets.GIT_TOKEN }}@github.com/${{ github.repository }}.git page
+
+      - name: Clean Cache
+        run: |
+          curl https://emoticons.hzchu.top/json/display_all_list.json?delete=true
+
