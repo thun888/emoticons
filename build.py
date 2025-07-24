@@ -3,6 +3,7 @@ import json
 import shutil
 import yaml
 from tqdm import tqdm
+from toolkit.util import artalk_to_owo
 # 域名
 domain = "emoticons.hzchu.top"
 
@@ -21,6 +22,7 @@ if os.path.exists(json_dir):
     shutil.rmtree(json_dir)  # 删除整个 json 文件夹及其内容
 ensure_dir_exists(json_dir)
 ensure_dir_exists(os.path.join(json_dir, 'artalk'))
+ensure_dir_exists(os.path.join(json_dir, 'owo'))
 ensure_dir_exists(os.path.join(json_dir, 'display'))
 
 # 获取 emoticons 目录下的所有文件夹
@@ -83,6 +85,15 @@ for folder in tqdm(folders):
     with open(json_filename, 'w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, ensure_ascii=False, indent=4)
     # print(f"生成了 {json_filename} 文件")
+
+    # 将 artalk JSON 文件转换为 OWO 格式
+    owo_data = artalk_to_owo(json_data)
+    # 将 OWO 数据写入文件（owo）
+    owo_filename = os.path.join(json_dir, "owo", f"{folder}.json")
+    with open(owo_filename, 'w', encoding='utf-8') as owo_file:
+        json.dump(owo_data, owo_file, ensure_ascii=False, indent=4)
+    # print(f"生成了 {owo_filename} 文件")
+
 
     # 记录 artalk JSON 文件的引用路径
     artalk_all_data.append(f"https://{domain}/{os.path.relpath(json_filename, current_dir).replace(os.sep, '/')}")

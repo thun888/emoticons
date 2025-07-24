@@ -1,3 +1,4 @@
 .vscode/settings.json
 json/
 .edgeone/
+__pycache__

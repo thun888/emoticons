@@ -10,15 +10,21 @@
                             emoticons.forEach(emoticon => {
                                 const emoticonDiv = document.createElement('div');
                                 emoticonDiv.className = 'col-md-4 mb-4';
-                                const displayUrl = `${currentOrigin}/json/artalk/${emoticon.english_name}.json`;
+                                const routeUrl = `${currentOrigin}/emoticons/${emoticon.english_name}/`;
+                                const artalkDisplayUrl = `${currentOrigin}/json/artalk/${emoticon.english_name}.json`;
+                                const owoDisplayUrl = `${currentOrigin}/json/owo/${emoticon.english_name}.json`;
 
-                                let sourceHTML;
+                                let sourceHTML = '暂无来源';
                                 if (emoticon.source.startsWith('http')) {
                                     // 提取域名
                                     sourceDisplay = emoticon.source.split('/')[2];
-                                sourceHTML = `<a href="${emoticon.source}" target="_blank" rel="nofollow noopener noreferrer" onclick="event.stopPropagation()">${sourceDisplay}</a>`;
+                                    if (sourceDisplay != ""){
+                                        sourceHTML = `<a href="${emoticon.source}" target="_blank" rel="nofollow noopener noreferrer" onclick="event.stopPropagation()">${sourceDisplay}</a>`;
+                                    }else{
+                                        sourceHTML = emoticon.source;
+                                    }
                                 } else {
-                                sourceHTML = emoticon.source || '暂无来源';
+                                    sourceHTML = emoticon.source;
                                 }
 
 
@@ -33,8 +39,8 @@
                                             <h5 class="card-title">${emoticon.chinese_name} (${emoticon.english_name})<img src="${randomImageUrl}" alt="${randomAlias}" style="height: 1.5em; margin-left: 0.5em;"></h5>
                                             <p class="card-text">来源: ${sourceHTML}</p>
                                             <p class="card-text">描述: ${emoticon.source_description || '暂无描述'}</p>
-                                            <p class="card-text">路径: /emoticons/${emoticon.english_name}/</p>
-                                            <p class="card-text">引用链接: <a href="${displayUrl}" target="_blank" onclick="event.stopPropagation()">${displayUrl}</a></p>
+                                            <p class="card-text">路径: <a href="${routeUrl}" target="_blank" onclick="event.stopPropagation()">/emoticons/${emoticon.english_name}/</a></p>
+                                            <p class="card-text">引用链接: <a href="${artalkDisplayUrl}" target="_blank" onclick="event.stopPropagation()">Artalk</a> | <a href="${owoDisplayUrl}" target="_blank" onclick="event.stopPropagation()">OWO</a></p>
                                         </div>
                                     </div>
                                 `;
