@@ -30,7 +30,7 @@ jobs:
           git checkout -b page
           git add .
           git commit -m "GitHub Actions at $(date +'%Y-%m-%d %H:%M:%S')"
-          git push --force https://x-access-token:${{ secrets.GIT_TOKEN }}@github.com/${{ github.repository }}.git page
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git page
 
       - name: Clean Cache
         run: |
