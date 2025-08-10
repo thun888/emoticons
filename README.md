@@ -10,9 +10,9 @@
 
 
 
-本项目会收集一些表情包并提供 Artalk 形式的表情引用（位于 page 分支的 json/ 文件夹内）。通过 GitHub Actions 实现自动化，新增表情包后可自动更新 JSON 配置文件和预览页面。
+本项目收集了一些表情包并提供` Artalk`和·`OWO`形式的表情引用（位于 page 分支的 json/ 文件夹内）。通过`GitHub Actions`实现自动化部署，新增表情包后可自动更新 JSON 配置文件和预览页面。
 
-托管于Github Page上，并使用腾讯云Edge One反代加速
+托管于`Github Page`上，并使用腾讯云`Edge One`反代加速
 
 <img width="1452" height="798" alt="image" src="https://github.com/user-attachments/assets/cf6580ff-0ff4-42a7-ad47-f2cbca48ff8b" />
 
@@ -78,23 +78,34 @@
 ["https://emoticons.hzchu.top/json/azukisan.json","https://emoticons.hzchu.top/json/neko.json"]
 ```
 
-
 ## 贡献指南
+
+### 收集表情包
+
+可以从现成的表情包集合下载：
+
+1. QQ: [telegra.ph](https://telegra.ph/%E5%B0%86QQ%E4%B8%8A%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E8%BD%AC%E6%8D%A2%E4%B8%BATelegram%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E7%9A%84%E8%B4%B4%E7%BA%B8-04-22)
+2. WeChat: [Funbox](https://github.com/Xposed-Modules-Repo/have.fun)
+3. BiliBili: [Telegram: Launch @Enlysure_sticker_bot](https://t.me/Enlysure_sticker_bot)
+4. Telegram: [Telegram: Launch @StickerDownloader_obot](https://t.me/StickerDownloader_obot)
+5. Telegram(`tgs`): [Telegram: Launch @tgtowabot](https://t.me/tgtowabot)
 
 ### 添加新的表情包
 
 欢迎您为本项目贡献新的表情包！流程如下：
 
-1.  [**Fork 本仓库**](https://github.com/thun888/emoticons/fork)。
-2.  在 `emoticons/` 目录下创建一个**英文名称**的新文件夹。这个名称将作为表情包的唯一 ID。
-3.  将表情图片（如 `.png`, `.gif` 等）放入该文件夹中。
-4.  运行 `create.py` 脚本，并按照提示操作：
-    ```bash
-    python create.py
-    ```
-    ⚠️ 注意：脚本会提示输入中英文名称等信息，请确保**填写的英文名称与第 2 步创建的文件夹名完全一致**。脚本会自动生成所有必要的配置文件。
+1. [**Fork 本仓库**](https://github.com/thun888/emoticons/fork)。
+2. 在 `emoticons/` 目录下创建一个**英文名称**的新文件夹。这个名称将作为表情包的唯一 ID。
+3. 将表情图片（如 `.png`, `.gif` 等）放入该文件夹中。
+4. 使用[tinypng](https://tinypng.com/)压缩（可选）
+5. 将格式转换为`webp`（可使用`XnConvert`）
+6. 运行 `create.py` 脚本，并按照提示操作：
+   ```bash
+   python create.py
+   ```
+   ⚠️ 注意：脚本会提示输入中英文名称等信息，请确保**填写的英文名称与第 2 步创建的文件夹名完全一致**。脚本会自动生成所有必要的配置文件。
 
-5.  提交修改并发起 Pull Request。
+7. 提交修改并发起 Pull Request。
 
 > [!NOTE]
 > 如果您不熟悉如何提交 Pull Request，也可以将表情包文件及相关信息（中文名、英文名、来源、来源描述）通过邮件发送至 `thun888@hzchu.top` 或者 `summer@flyalready.com`。
