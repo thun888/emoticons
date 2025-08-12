@@ -1,0 +1,815 @@
+{
+    "blobcat_fu": {
+        "type": "image",
+        "container": [
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mesugaki2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mesugaki2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_sweatflip",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_sweatflip.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_sorry4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_sorry4.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_mad_zoom",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_mad_zoom.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_unknown",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_unknown.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou3_c",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou3_c.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_surprised2_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_surprised2_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b1",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b1.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gazepero_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gazepero_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_center",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_center.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gun6",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gun6.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gun7",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gun7.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_surprised2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_surprised2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_excitement",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_excitement.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gazepero",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gazepero.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_2029",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_2029.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou5.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad2b_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad2b_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou_c",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou_c.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_umm",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_umm.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_long_back",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_long_back.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_blue",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_blue.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_melt5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_melt5.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_center_middlefingers",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_center_middlefingers.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b7",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b7.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_whatsthis",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_whatsthis.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_normal",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_normal.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad4b",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad4b.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_explode",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_explode.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad_zoom5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad_zoom5.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_whatsthis_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_whatsthis_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b15",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b15.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife3.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gun5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gun5.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_fearful_c",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_fearful_c.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_fingerguns2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_fingerguns2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_yummy",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_yummy.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_wow",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_wow.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_be_gameover",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_be_gameover.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_uwupero",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_uwupero.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou4_c_middlefingers",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou4_c_middlefingers.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_sorry4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_sorry4.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_make_fun_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_make_fun_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_melt3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_melt3.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_uwu_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_uwu_middlefinger.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_fearful_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_fearful_middlefinger.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad_zoom6",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad_zoom6.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_2025",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_2025.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_shakenup",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_shakenup.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_blue",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_blue.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pink",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pink.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_2027",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_2027.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_jax",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_jax.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_normal",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_normal.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b16",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b16.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_surprised5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_surprised5.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_speechless",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_speechless.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_surprised3_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_surprised3_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gazepero2_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gazepero2_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou4.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_drawing_yabai",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_drawing_yabai.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_surprised4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_surprised4.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_surprised3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_surprised3.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_sweatflip_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_sweatflip_middlefinger.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_doubt_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_doubt_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_make_fun",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_make_fun.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_fingerguns",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_fingerguns.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_yabai",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_yabai.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_i_feel_like_death",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_i_feel_like_death.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_drawing_normal",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_drawing_normal.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_be_dying",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_be_dying.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad3b",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad3b.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_impatience",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_impatience.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_smile2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_smile2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_melt5_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_melt5_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gazepero2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gazepero2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_happy",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_happy.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_ahe",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_ahe.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_surprised4b",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_surprised4b.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b13",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b13.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_fearful",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_fearful.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b12",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b12.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_doubt",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_doubt.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad2_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad2_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_happy",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_happy.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_long_center",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_long_center.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gun4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gun4.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_melt4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_melt4.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_normal2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_normal2.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_2028",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_2028.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_jax2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_jax2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_long_left",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_long_left.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_thinking",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_thinking.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_drawing_yabai2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_drawing_yabai2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_center2_middlefingers",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_center2_middlefingers.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b6",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b6.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_happy3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_happy3.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_sorry",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_sorry.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_drawing",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_drawing.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_long_right",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_long_right.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad4.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_2024",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_2024.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_madb",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_madb.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mesugaki",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mesugaki.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_I_feel_like_death",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_I_feel_like_death.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou6_c",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou6_c.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_be_dying",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_be_dying.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_cute",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_cute.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_melt2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_melt2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pomupu2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pomupu2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b11",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b11.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_sorry3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_sorry3.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pomupu",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pomupu.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_yummy2_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_yummy2_middlefinger.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_smile",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_smile.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_happy2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_happy2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_black",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_black.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_unknown2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_unknown2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_bounce",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_bounce.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_smile_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_smile_middlefinger.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou4_c",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou4_c.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou2_c",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou2_c.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_drawing_impatience2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_drawing_impatience2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_melt",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_melt.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b5.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_fearful2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_fearful2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad2b",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad2b.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_yummy2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_yummy2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_monster",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_monster.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gun2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gun2.png'>"
+            },
+            {
+                "text": "blobcat_fu_ablobcat_fu_drawing_impatience",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/ablobcat_fu_drawing_impatience.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou2_c_middlefingers",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou2_c_middlefingers.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad5.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife5.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_2030",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_2030.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou6_c_middlefingers",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou6_c_middlefingers.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_thinking3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_thinking3.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_melt2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_melt2.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_normal2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_normal2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_beam2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_beam2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_center2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_center2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gun3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gun3.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b9",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b9.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_orange",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_orange.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_fury",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_fury.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad_zoom3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad_zoom3.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b3.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_uwu",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_uwu.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_surprised",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_surprised.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad_zoom4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad_zoom4.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_2026",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_2026.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_kiss",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_kiss.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_sorry3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_sorry3.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_long_back2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_long_back2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_fearful",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_fearful.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad3.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_thinking2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_thinking2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_gun",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_gun.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou5_c_middlefingers",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou5_c_middlefingers.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_sorry2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_sorry2.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b4.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_make_fun_a",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_make_fun_a.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_mad3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_mad3.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou3_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou3_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad_zoom",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad_zoom.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_despair",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_despair.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou2_c_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou2_c_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad4_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad4_middlefinger.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b8",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b8.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife4.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad5_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad5_middlefinger.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_make_fun2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_make_fun2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_sorry",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_sorry.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_yabai",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_yabai.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b14",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b14.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_sorry2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_sorry2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou3.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b10",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b10.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_dodge",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_dodge.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou5_c",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou5_c.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_knife_b2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_knife_b2.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_mad_zoom2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_mad_zoom2.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_purple",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_purple.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou3_c_middlefingers",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou3_c_middlefingers.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_yabai_middlefinger",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_yabai_middlefinger.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_green",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_green.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou_c_middlefingers",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou_c_middlefingers.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_beam",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_beam.png'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_pet_surprised3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_pet_surprised3.gif'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_melt4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_melt4.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_smilepero",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_smilepero.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_lookingyou3b",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_lookingyou3b.webp'>"
+            },
+            {
+                "text": "blobcat_fu_blobcat_fu_drawing_impatience",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/blobcat_fu/blobcat_fu_drawing_impatience.webp'>"
+            }
+        ]
+    }
+}
