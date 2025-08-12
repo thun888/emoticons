@@ -88,7 +88,6 @@
 2. WeChat: [Funbox](https://github.com/Xposed-Modules-Repo/have.fun)
 3. BiliBili: [Telegram: Launch @Enlysure_sticker_bot](https://t.me/Enlysure_sticker_bot)
 4. Telegram: [Telegram: Launch @StickerDownloader_obot](https://t.me/StickerDownloader_obot)
-5. Telegram(`tgs`): [Telegram: Launch @tgtowabot](https://t.me/tgtowabot)
 
 ### 添加新的表情包
 
