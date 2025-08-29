@@ -1,7 +1,7 @@
 export async function onRequestGet(event) {
   const { request } = event;
   const urlInfo = new URL(request.url);
-  const originUrl = `http://emoticons-assets.hzchu.top${urlInfo.pathname}`;
+  const originUrl = `https://emoticons-vercel.hzchu.top${urlInfo.pathname}`;
   const cacheKey = new Request(originUrl);
   const cache = await caches.open('cache');
   // 如果?delete 则删除缓存
@@ -19,7 +19,7 @@ export async function onRequestGet(event) {
 
   const response = await fetch(cacheKey, {
     headers: {
-      'Host': 'emoticons-assets.hzchu.top'
+      'Host': 'emoticons-vercel.hzchu.top'
     }
   });
 
