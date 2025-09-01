@@ -28,7 +28,7 @@
   ],
   "caches": [
     {
-      "source": "/*",
+      "source": "/emoticons/*",
       "cacheTtl": 2592000
     }
   ]
