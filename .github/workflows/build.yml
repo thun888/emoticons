@@ -22,7 +22,7 @@ jobs:
       - name: Commit and push to page branch
         run: |
           mkdir -p page
-          cp -r json emoticons index.html main.js 404.html CNAME favicon.ico vercel.json page/
+          cp -r json emoticons index.html main.js 404.html CNAME favicon.ico vercel.json sync.sh page/
           cd page
           git init
           git config user.name "github-actions[bot]"
