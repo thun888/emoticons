@@ -1,0 +1,67 @@
+{
+    "遇见你的猫": {
+        "type": "image",
+        "container": [
+            {
+                "text": "yu-jian-ni-de-mao_呆",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/8.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_大哭",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/7.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_流口水",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/12.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_开心",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/11.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_生气",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/15.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_疑惑",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/3.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_晚安",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/2.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_打你",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/6.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_震惊",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/4.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_你别急",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/13.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_摔倒",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/1.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_好的",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/9.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_自闭",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/5.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_破防",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/14.webp'>"
+            },
+            {
+                "text": "yu-jian-ni-de-mao_好兄弟",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/yu-jian-ni-de-mao/10.webp'>"
+            }
+        ]
+    }
+}
