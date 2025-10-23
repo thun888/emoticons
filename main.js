@@ -39,8 +39,8 @@ fetch('/json/display_all_list.json')
                                 <h5 class="card-title">${emoticon.chinese_name} (${emoticon.english_name})<img src="${randomImageUrl}" alt="${randomAlias}" style="height: 1.5em; margin-left: 0.5em;"></h5>
                                 <p class="card-text">来源: ${sourceHTML}</p>
                                 <p class="card-text">描述: ${emoticon.source_description || '暂无描述'}</p>
-                                <p class="card-text">路径: <a href="${routeUrl}" target="_blank" onclick="event.stopPropagation()">/emoticons/${emoticon.english_name}/</a></p>
-                                <p class="card-text">引用链接: <a href="${artalkDisplayUrl}" target="_blank" onclick="event.stopPropagation()">Artalk</a> | <a href="${owoDisplayUrl}" target="_blank" onclick="event.stopPropagation()">OWO</a></p>
+                                <p class="card-text">图片资源路径: <a href="${routeUrl}" target="_blank" onclick="event.stopPropagation()">/emoticons/${emoticon.english_name}/</a></p>
+                                <p class="card-text">表情包链接: <a href="${artalkDisplayUrl}" target="_blank" onclick="event.stopPropagation()">Artalk</a> | <a href="${owoDisplayUrl}" target="_blank" onclick="event.stopPropagation()">OWO</a></p>
                             </div>
                         </div>
                     `;
