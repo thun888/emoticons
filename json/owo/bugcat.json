@@ -1,0 +1,219 @@
+{
+    "猫猫虫": {
+        "type": "image",
+        "container": [
+            {
+                "text": "bugcat_bugcat_work",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_work.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_nod_pink",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_nod_pink.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_hit_turtle",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_hit_turtle.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_laughing",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_laughing.webp'>"
+            },
+            {
+                "text": "bugcat_bugcatclap",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatclap.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_capoo_punishment",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_capoo_punishment.gif'>"
+            },
+            {
+                "text": "bugcat_bugcatcoffee",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatcoffee.gif'>"
+            },
+            {
+                "text": "bugcat_bugcatbounce2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatbounce2.gif'>"
+            },
+            {
+                "text": "bugcat_bugcatcry",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatcry.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_ded",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_ded.png'>"
+            },
+            {
+                "text": "bugcat_bugcat_absence",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_absence.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_dance6",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_dance6.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_angrycomputer",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_angrycomputer.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_nod",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_nod.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_squish_stop",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_squish_stop.png'>"
+            },
+            {
+                "text": "bugcat_bugcat_awe",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_awe.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_wave",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_wave.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_refuse",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_refuse.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_heart_hands",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_heart_hands.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_dance4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_dance4.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_hearts",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_hearts.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_bongo",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_bongo.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_cry3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_cry3.webp'>"
+            },
+            {
+                "text": "bugcat_bugcat_nomoney",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_nomoney.webp'>"
+            },
+            {
+                "text": "bugcat_bugcat_shock",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_shock.png'>"
+            },
+            {
+                "text": "bugcat_bugcatdance",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatdance.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_mlem",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_mlem.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_keyboard",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_keyboard.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_lick",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_lick.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_sweat",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_sweat.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_hug",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_hug.webp'>"
+            },
+            {
+                "text": "bugcat_bugcat_fun",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_fun.webp'>"
+            },
+            {
+                "text": "bugcat_bugcatcry2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatcry2.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_angry",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_angry.gif'>"
+            },
+            {
+                "text": "bugcat_bugcatsmashkeyboard",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatsmashkeyboard.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_love",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_love.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_lovehug",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_lovehug.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_love_",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_love_.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_wobble",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_wobble.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat24",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat24.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_onegai",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_onegai.webp'>"
+            },
+            {
+                "text": "bugcat_bugcataww",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcataww.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_bright",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_bright.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_dance",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_dance.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_vibe",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_vibe.gif'>"
+            },
+            {
+                "text": "bugcat_capoo_fear",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/capoo_fear.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_happy3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_happy3.gif'>"
+            },
+            {
+                "text": "bugcat_bugcatgoodnight",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatgoodnight.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_dance2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_dance2.gif'>"
+            },
+            {
+                "text": "bugcat_bugcatwtf3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatwtf3.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat_wiggle",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat_wiggle.gif'>"
+            },
+            {
+                "text": "bugcat_bugcat3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcat3.gif'>"
+            },
+            {
+                "text": "bugcat_bugcatpat",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bugcat/bugcatpat.gif'>"
+            }
+        ]
+    }
+}

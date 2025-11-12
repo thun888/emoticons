@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emoticons Collect</title>
+    <link href="https://static.hzchu.top/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Artalk CSS -->
+    <link href="https://artalk.hzchu.top/dist/Artalk.css" rel="stylesheet">
+    <!-- Artalk JS -->
+    <script src="https://artalk.hzchu.top/dist/Artalk.js"></script>
+    <!-- 添加 Bootstrap JS 和 jQuery -->
+    <script src="https://static.hzchu.top/jquery/3.2.1/files/dist/jquery.min.js"></script>
+    <script src="https://static.hzchu.top/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+    <script>const currentOrigin = window.location.origin;</script>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Emoticons Collect</h1>
+        <p class="lead text-center">
+            <a href="https://github.com/thun888/emoticons" class="text-secondary text-decoration-none">
+                <svg height="20" width="20" class="me-1" viewBox="0 0 16 16" version="1.1">
+                    <path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+                </svg> View on Github
+            </a>
+        </p>
+
+        <div class="row mt-5">
+            <div class="col-md-6">
+                <h2>可可爱爱</h2>
+                <p>一群小可爱</p>
+            </div>
+            <div class="col-md-6">
+                <h2>速度快快</h2>
+                <p>使用腾讯云EdgeOne</p>
+            </div>
+        </div>
+
+        <!-- 表情包展示容器 -->
+        <div class="container mt-5" id="emoticons-container">
+            <h4 class="text-center">一览</h4>
+            <div class="row" id="emoticons-list"></div>
+        </div>
+        <!-- 表情包链接测试 输入框-->
+        <div class="container mt-5">
+            <h4 class="text-center" style="margin-bottom: 20px;">表情包实际使用预览</h4>
+            <div class="input-group mb-3">
+                <span class="input-group-text">表情包链接</span>
+                <input type="text" class="form-control" id="emoticonLink" placeholder="请输入表情包链接（Artalk格式）">
+                <button class="btn btn-outline-primary" onclick="initArtalk()">初始化</button>
+            </div>
+        </div>
+        <!-- Artalk -->
+        <div class="container mt-5">
+            <div id="Comments"></div>
+        </div>
+
+        <!-- 一级模态框 - 表情包列表 -->
+        <div class="modal fade" id="emoticonModal" tabindex="-1" aria-labelledby="emoticonModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="emoticonModalLabel">表情包详情</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="关闭"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="row" id="emoticonDetails"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 二级模态框 - 表情详情 -->
+        <div class="modal fade" id="emoticonDetailModal" data-bs-backdrop="static" tabindex="-1" aria-labelledby="emoticonDetailModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="emoticonDetailModalLabel">表情详情</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="关闭"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-12 preview-container text-center mb-3">
+                                    <img id="previewImage" src="" alt="预览图" class="img-fluid rounded shadow-sm" style="max-height: 300px; object-fit: contain;" data-atk-emoticon="">
+                                </div>
+                                <div class="col-12 link-section bg-light p-3 rounded">
+                                    <h6 class="mb-3">引用链接：</h6>
+                                    <div class="link-items">
+                                        <div class="input-group mb-2">
+                                            <span class="input-group-text">URL</span>
+                                            <input type="text" id="urlLink" class="form-control" readonly>
+                                            <button class="btn btn-outline-primary" onclick="copyToClipboard('urlLink')">复制</button>
+                                        </div>
+                                        <div class="input-group mb-2">
+                                            <span class="input-group-text">Markdown</span>
+                                            <input type="text" id="markdownLink" class="form-control" readonly>
+                                            <button class="btn btn-outline-primary" onclick="copyToClipboard('markdownLink')">复制</button>
+                                        </div>
+                                        <div class="input-group mb-2">
+                                            <span class="input-group-text">HTML</span>
+                                            <input type="text" id="htmlLink" class="form-control" readonly>
+                                            <button class="btn btn-outline-primary" onclick="copyToClipboard('htmlLink')">复制</button>
+                                        </div>
+                                        <div class="input-group mb-2">
+                                            <span class="input-group-text">Artalk</span>
+                                            <input type="text" id="artalkLink" class="form-control" readonly>
+                                            <button class="btn btn-outline-primary" onclick="copyToClipboard('artalkLink')">复制</button>
+                                        </div>
+                                        <div class="input-group">
+                                            <span class="input-group-text">BBCode</span>
+                                            <input type="text" id="bbcodeLink" class="form-control" readonly>
+                                            <button class="btn btn-outline-primary" onclick="copyToClipboard('bbcodeLink')">复制</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 复制成功提示 -->
+        <div class="toast-container position-fixed bottom-0 end-0 p-3">
+            <div id="copyToast" class="toast align-items-center text-white bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
+                <div class="d-flex">
+                    <div class="toast-body">
+                        复制成功！
+                    </div>
+                    <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="关闭"></button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 悬浮球 -->
+        <div class="floating-ball" onclick="scrollToBottom()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293z"/>
+            </svg>
+        </div>
+
+        <!-- 读取并展示表情包的 JavaScript -->
+        <script src="main.js"></script>
+
+    </div>
+
+    <style>
+        .atk-grp-switcher {
+            display: flex;
+            overflow-x: auto;
+            overflow-y: hidden;
+            white-space: nowrap;
+            height: 35px !important;
+        }
+        
+        .atk-grp-switcher::-webkit-scrollbar {
+            height: 5px;
+        }
+        
+        .atk-grp-switcher::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        
+        .atk-grp-switcher::-webkit-scrollbar-thumb {
+            background-color: var(--at-color-main);
+            border-radius: 3px;
+        }
+        
+        .modal-body {
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        
+        .card-img-top {
+            transition: transform 0.2s;
+        }
+        
+        .card-img-top:hover {
+            transform: scale(1.1);
+        }
+        
+        .preview-container {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .link-section {
+            background: #f8f9fa;
+            border-radius: 0.5rem;
+        }
+        
+        .cursor-pointer {
+            cursor: pointer;
+        }
+        
+        .card {
+            transition: border-color 0.2s ease-in-out;
+        }
+        
+        .card:hover {
+            border-color: #6c757d !important;
+        }
+        /* 二级模态框样式 */
+        
+        #emoticonDetailModal {
+            background-color: rgba(0, 0, 0, 0.8);
+        }
+        
+        #emoticonDetailModal .modal-dialog {
+            max-width: 800px;
+        }
+        
+        #emoticonDetailModal .modal-content {
+            background-color: white;
+            border-radius: 1rem;
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+        }
+        
+        #emoticonDetailModal .modal-header {
+            border-bottom: 1px solid #dee2e6;
+            padding: 1.5rem;
+        }
+        
+        #emoticonDetailModal .modal-body {
+            padding: 2rem;
+        }
+
+        /* 悬浮球样式 */
+        .floating-ball {
+            position: fixed;
+            right: 20px;
+            bottom: 80px;
+            width: 50px;
+            height: 50px;
+            background-color: #6bb418;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            color: white;
+            z-index: 1000;
+        }
+
+        .floating-ball:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        a {
+            color: #6bb418;
+        }
+    </style>
+    <script src="https://seeyou.hzchu.top/api/script.js" data-site-id="3" defer></script>
+    <script>
+      // 滚动到底部函数
+      function scrollToBottom() {
+        window.scrollTo({
+          top: document.documentElement.scrollHeight,
+          behavior: 'smooth'
+        });
+      }
+    </script>
+</body>
+
+</html>
