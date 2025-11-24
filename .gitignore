@@ -2,3 +2,4 @@
 json/
 .edgeone/
 __pycache__
+.env
