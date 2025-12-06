@@ -23,6 +23,9 @@ fetch('/json/display_all_list.json')
                         } else {
                             sourceHTML = emoticon.source;
                         }
+                    } else if (emoticon.source.startsWith('bilibili')) {
+                        sourceHTML = `<a href="${emoticon.source}" target="_blank" rel="nofollow noopener noreferrer" onclick="event.stopPropagation()">BiliBili APP</a>`;
+                        
                     } else {
                         sourceHTML = emoticon.source;
                     }
