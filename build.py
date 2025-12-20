@@ -5,7 +5,7 @@ import yaml
 from tqdm import tqdm
 from toolkit.util import artalk_to_owo
 # 域名
-domain = "emoticons.hzchu.top"
+domain = "emo.hhj520.top"
 
 # 获取当前目录路径
 current_dir = os.getcwd()
