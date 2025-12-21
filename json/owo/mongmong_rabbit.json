@@ -1,0 +1,115 @@
+{
+    "mongmong": {
+        "type": "image",
+        "container": [
+            {
+                "text": "mongmong_rabbit_sob",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_a018_sob.gif'>"
+            },
+            {
+                "text": "mongmong_rabbit_shock",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_111_shock.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_wakuwaku",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_108_wakuwaku.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_takeabreak",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_116_takeabreak.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_what",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_109_what.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_pleasure",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_124_pleasure.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_happyy",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_119_happyy.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_beautiful",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_101_beautiful.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_panic",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_a017_panic.gif'>"
+            },
+            {
+                "text": "mongmong_rabbit_aya",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_102_aya.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_cold",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_cold.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_lovingyou",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_114_lovingyou.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_sad",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_113_sad.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_waa",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_103_waa.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_holiday",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_106_holiday.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_sugoi_lihai",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_117_sugoi_lihai.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_goingout",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_104_goingout.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_omg",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_123_omg.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_point",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_120_100point.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_wow",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_105_wow.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_nomoney",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_121_nomoney.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_angry",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_112_angry.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_crying",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_110_crying.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_dinning",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_118_dinning.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_hehe",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_122_hehe.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_goodnight",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_115_goodnight.png'>"
+            },
+            {
+                "text": "mongmong_rabbit_thanks",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mongmong_rabbit/mongmong_107_thanks.png'>"
+            }
+        ]
+    }
+}

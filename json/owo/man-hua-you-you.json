@@ -1,0 +1,67 @@
+{
+    "漫画鱿鱿": {
+        "type": "image",
+        "container": [
+            {
+                "text": "man-hua-you-you_饭来啰",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/10.png'>"
+            },
+            {
+                "text": "man-hua-you-you_沉默",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/8.png'>"
+            },
+            {
+                "text": "man-hua-you-you_如厕中",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/3.png'>"
+            },
+            {
+                "text": "man-hua-you-you_啧",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/1.png'>"
+            },
+            {
+                "text": "man-hua-you-you_下海",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/2.png'>"
+            },
+            {
+                "text": "man-hua-you-you_快上号",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/9.png'>"
+            },
+            {
+                "text": "man-hua-you-you_送花",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/15.png'>"
+            },
+            {
+                "text": "man-hua-you-you_开心",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/4.png'>"
+            },
+            {
+                "text": "man-hua-you-you_洗手",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/14.png'>"
+            },
+            {
+                "text": "man-hua-you-you_困倦",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/11.png'>"
+            },
+            {
+                "text": "man-hua-you-you_开饭啰",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/7.png'>"
+            },
+            {
+                "text": "man-hua-you-you_点赞",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/6.png'>"
+            },
+            {
+                "text": "man-hua-you-you_让我瞅瞅",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/13.png'>"
+            },
+            {
+                "text": "man-hua-you-you_落泪",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/5.png'>"
+            },
+            {
+                "text": "man-hua-you-you_贴贴",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/man-hua-you-you/12.png'>"
+            }
+        ]
+    }
+}
