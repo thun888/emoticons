@@ -45,7 +45,7 @@ def download_emotes(data, root_dir='emoticons'):
 
             try:
                 print(f"正在下载 {url} -> {filepath}")
-                resp = requests.get(url, timeout=10)
+                resp = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
                 resp.raise_for_status()
                 with open(filepath, 'wb') as f:
                     f.write(resp.content)

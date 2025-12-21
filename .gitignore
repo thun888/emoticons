@@ -3,3 +3,4 @@ json/
 .edgeone/
 __pycache__
 .env
+toolkit/emoticons/
