@@ -106,7 +106,8 @@ function showEmoticonDetail(baseUrl, englishName, filename, name) {
     document.getElementById('htmlLink').value = `<img src="${imageUrl}" alt="${name}">`;
     document.getElementById('bbcodeLink').value = `[img]${imageUrl}[/img]`;
     document.getElementById('artalkLink').value = `<img src="${imageUrl}" atk-emoticon="${atkEmoticon}">`;
-
+    document.getElementById('twikooLink').value = `<img src="${imageUrl}" alt=":${name}:" class="tk-owo-emotion">`;
+    document.getElementById('stellarLink').value = `{% emoji rawurl:${imageUrl} %}`;
     // 显示二级模态框
     const detailModal = new bootstrap.Modal(document.getElementById('emoticonDetailModal'));
     detailModal.show();
