@@ -1,0 +1,87 @@
+{
+    "豆泥餐厅": {
+        "type": "image",
+        "container": [
+            {
+                "text": "dou_ni_can_ting_送餐",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/8.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_烦",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/17.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_精神恍惚",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/20.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_请看",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/7.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_呜呜",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/12.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_委屈",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/11.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_叫我？",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/19.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_吃完了",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/15.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_了解",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/3.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_来了",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/2.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_眯一会",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/6.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_买",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/4.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_堡堡巴士",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/13.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_鞠躬",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/1.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_送花",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/9.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_没问题",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/5.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_饿",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/16.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_火大",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/18.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_不好意思",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/14.webp'>"
+            },
+            {
+                "text": "dou_ni_can_ting_贴贴",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/dou_ni_can_ting/10.webp'>"
+            }
+        ]
+    }
+}
