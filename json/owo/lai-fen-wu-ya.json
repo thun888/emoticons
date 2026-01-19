@@ -1,0 +1,67 @@
+{
+    "来份乌鸦": {
+        "type": "image",
+        "container": [
+            {
+                "text": "lai-fen-wu-ya_飞",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/10.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_哭哭",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/8.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_走路",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/3.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_盯",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/1.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_叫",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/2.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_思考",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/9.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_吐魂",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/15.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_？",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/4.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_滑铲",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/14.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_炸毛",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/11.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_喜欢",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/7.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_吃",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/6.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_OVO",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/13.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_拿捏",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/5.png'>"
+            },
+            {
+                "text": "lai-fen-wu-ya_扁扁",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/lai-fen-wu-ya/12.png'>"
+            }
+        ]
+    }
+}

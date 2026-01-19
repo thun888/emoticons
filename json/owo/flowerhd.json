@@ -1,0 +1,67 @@
+{
+    "花！": {
+        "type": "image",
+        "container": [
+            {
+                "text": "flowerhd_叶",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/叶.webp'>"
+            },
+            {
+                "text": "flowerhd_嘿嘿",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/嘿嘿.webp'>"
+            },
+            {
+                "text": "flowerhd_海",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/海.webp'>"
+            },
+            {
+                "text": "flowerhd_酸",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/酸.webp'>"
+            },
+            {
+                "text": "flowerhd_生日快乐",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/生日快乐.webp'>"
+            },
+            {
+                "text": "flowerhd_月",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/月.webp'>"
+            },
+            {
+                "text": "flowerhd_瓦",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/瓦.webp'>"
+            },
+            {
+                "text": "flowerhd_菜",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/菜.webp'>"
+            },
+            {
+                "text": "flowerhd_这河里吗",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/这河里吗.webp'>"
+            },
+            {
+                "text": "flowerhd_水",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/水.webp'>"
+            },
+            {
+                "text": "flowerhd_�",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/�.webp'>"
+            },
+            {
+                "text": "flowerhd_花",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/花.webp'>"
+            },
+            {
+                "text": "flowerhd_星",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/星.webp'>"
+            },
+            {
+                "text": "flowerhd_日",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/日.webp'>"
+            },
+            {
+                "text": "flowerhd_草",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/flowerhd/草.webp'>"
+            }
+        ]
+    }
+}

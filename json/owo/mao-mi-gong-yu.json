@@ -1,0 +1,71 @@
+{
+    "猫咪公寓": {
+        "type": "image",
+        "container": [
+            {
+                "text": "mao-mi-gong-yu_害羞",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/10.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_饮茶先啦",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/8.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_盯",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/3.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_我太难了",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/1.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_三点几啦",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/2.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_兴奋",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/9.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_晚安",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/15.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_加班",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/4.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_悠闲",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/14.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_加鸡腿",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/11.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_摸鱼",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/16.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_点赞",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/7.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_好耶",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/6.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_再来亿遍",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/13.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_加油",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/5.png'>"
+            },
+            {
+                "text": "mao-mi-gong-yu_打卡",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/mao-mi-gong-yu/12.png'>"
+            }
+        ]
+    }
+}

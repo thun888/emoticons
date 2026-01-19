@@ -1,0 +1,67 @@
+{
+    "观鸟图鉴表情包": {
+        "type": "image",
+        "container": [
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_生气",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/10.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_比心",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/8.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_已下线",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/3.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_吃薯条",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/1.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_盯着你",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/2.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_疑惑",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/9.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_鬼鬼祟祟",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/15.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_尖叫",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/4.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_贴贴",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/14.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_局促",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/11.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_臭臭",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/7.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_劳累",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/6.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_鸽了",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/13.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_沉思",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/5.png'>"
+            },
+            {
+                "text": "guan-niao-tu-jian-biao-qing-bao_骄傲",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/guan-niao-tu-jian-biao-qing-bao/12.png'>"
+            }
+        ]
+    }
+}

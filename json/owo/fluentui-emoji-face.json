@@ -1,0 +1,475 @@
+{
+    "fluentui-emoji": {
+        "type": "image",
+        "container": [
+            {
+                "text": "fluentui-emoji-face_confounded_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/10.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_vomiting",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/29.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_clown_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/8.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_kissing_face_with_smiling_eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/64.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_anguished_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/3.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_slightly_frowning_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/91.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_worried_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/114.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_melting_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/69.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_blowing_a_kiss",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/23.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_pig_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/80.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_shaking_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/87.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_frowning_face_with_open_mouth",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/51.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_first_quarter_moon_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/48.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_lying_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/68.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_thermometer",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/44.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_expressionless_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/22.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_holding_back_tears",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/25.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_angry_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/1.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_yawning_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/115.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_monocle",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/34.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_hushed_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/61.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_steam_from_nose",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/41.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smiling_face_with_heart-eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/95.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_angry_face_with_horns",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/2.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_slightly_smiling_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/92.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_nerd_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/74.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_cold_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/9.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_grinning_face_with_big_eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/55.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_tiger_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/106.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_last_quarter_moon_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/66.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smiling_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/93.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_hugging_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/60.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_grinning_face_with_sweat",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/57.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_sleepy_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/90.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_kissing_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/62.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smirking_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/101.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_diagonal_mouth",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/30.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_winking_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/111.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_fearful_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/47.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_zipper-mouth_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/117.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_frowning_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/50.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_disappointed_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/15.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_open_mouth",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/36.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_pouting_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/82.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_zany_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/116.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smiling_face_with_smiling_eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/98.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_pleading_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/81.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_sad_but_relieved_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/85.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_kissing_face_with_closed_eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/63.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_raised_eyebrow",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/38.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_in_clouds",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/26.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_neutral_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/75.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_unamused_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/108.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_dotted_line_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/18.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_grinning_face_with_smiling_eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/56.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_peeking_eye",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/37.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_sun_with_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/104.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_anxious_face_with_sweat",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/4.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_monkey_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/71.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_grinning_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/54.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_hot_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/59.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_spiral_eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/40.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_head-bandage",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/32.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_exhaling",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/24.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_drooling_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/21.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_crying_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/14.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_confused_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/11.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_rabbit_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/83.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_open_eyes_and_hand_over_mouth",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/35.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_downcast_face_with_sweat",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/19.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_dog_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/17.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_upside-down_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/109.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_tongue",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/45.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_tears_of_joy",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/43.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_squinting_face_with_tongue",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/103.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_grinning_squinting_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/58.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_pensive_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/78.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_relieved_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/84.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_nauseated_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/73.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_saluting_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/86.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_money-mouth_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/70.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_loudly_crying_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/67.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smiling_face_with_sunglasses",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/99.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_partying_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/77.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_grimacing_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/53.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_medical_mask",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/33.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_disguised_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/16.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_new_moon_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/76.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_sleeping_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/89.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_knocked-out_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/65.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_without_mouth",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/46.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_dragon_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/20.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_cat_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/7.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_full_moon_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/52.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_hand_over_mouth",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/31.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_beaming_face_with_smiling_eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/6.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smiling_face_with_tear",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/100.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_persevering_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/79.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_weary_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/110.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_sneezing_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/102.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_symbols_on_mouth",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/42.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_with_rolling_eyes",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/39.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_shushing_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/88.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_thinking_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/105.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_savoring_food",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/27.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smiling_face_with_hearts",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/96.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_mouse_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/72.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_face_screaming_in_fear",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/28.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smiling_face_with_horns",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/97.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_woozy_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/113.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_cowboy_hat_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/13.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_winking_face_with_tongue",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/112.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_smiling_face_with_halo",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/94.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_tired_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/107.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_flushed_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/49.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_astonished_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/5.png'>"
+            },
+            {
+                "text": "fluentui-emoji-face_cow_face",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/fluentui-emoji-face/12.png'>"
+            }
+        ]
+    }
+}

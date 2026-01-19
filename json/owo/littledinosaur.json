@@ -1,0 +1,487 @@
+{
+    "小恐龙": {
+        "type": "image",
+        "container": [
+            {
+                "text": "littledinosaur_57",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/57.webp'>"
+            },
+            {
+                "text": "littledinosaur_76",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/76.webp'>"
+            },
+            {
+                "text": "littledinosaur_53",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/53.webp'>"
+            },
+            {
+                "text": "littledinosaur_54",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/54.webp'>"
+            },
+            {
+                "text": "littledinosaur_86",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/86.webp'>"
+            },
+            {
+                "text": "littledinosaur_22",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/22.webp'>"
+            },
+            {
+                "text": "littledinosaur_64",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/64.webp'>"
+            },
+            {
+                "text": "littledinosaur_95",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/95.webp'>"
+            },
+            {
+                "text": "littledinosaur_25",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/25.webp'>"
+            },
+            {
+                "text": "littledinosaur_56",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/56.webp'>"
+            },
+            {
+                "text": "littledinosaur_111",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/111.webp'>"
+            },
+            {
+                "text": "littledinosaur_98",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/98.webp'>"
+            },
+            {
+                "text": "littledinosaur_103",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/103.webp'>"
+            },
+            {
+                "text": "littledinosaur_29",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/29.webp'>"
+            },
+            {
+                "text": "littledinosaur_50",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/50.webp'>"
+            },
+            {
+                "text": "littledinosaur_8",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/8.webp'>"
+            },
+            {
+                "text": "littledinosaur_44",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/44.webp'>"
+            },
+            {
+                "text": "littledinosaur_101",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/101.webp'>"
+            },
+            {
+                "text": "littledinosaur_69",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/69.webp'>"
+            },
+            {
+                "text": "littledinosaur_0",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/0.webp'>"
+            },
+            {
+                "text": "littledinosaur_17",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/17.webp'>"
+            },
+            {
+                "text": "littledinosaur_49",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/49.webp'>"
+            },
+            {
+                "text": "littledinosaur_97",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/97.webp'>"
+            },
+            {
+                "text": "littledinosaur_28",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/28.webp'>"
+            },
+            {
+                "text": "littledinosaur_110",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/110.webp'>"
+            },
+            {
+                "text": "littledinosaur_70",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/70.webp'>"
+            },
+            {
+                "text": "littledinosaur_20",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/20.webp'>"
+            },
+            {
+                "text": "littledinosaur_7",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/7.webp'>"
+            },
+            {
+                "text": "littledinosaur_116",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/116.webp'>"
+            },
+            {
+                "text": "littledinosaur_12",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/12.webp'>"
+            },
+            {
+                "text": "littledinosaur_90",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/90.webp'>"
+            },
+            {
+                "text": "littledinosaur_75",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/75.webp'>"
+            },
+            {
+                "text": "littledinosaur_11",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/11.webp'>"
+            },
+            {
+                "text": "littledinosaur_119",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/119.webp'>"
+            },
+            {
+                "text": "littledinosaur_43",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/43.webp'>"
+            },
+            {
+                "text": "littledinosaur_19",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/19.webp'>"
+            },
+            {
+                "text": "littledinosaur_36",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/36.webp'>"
+            },
+            {
+                "text": "littledinosaur_41",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/41.webp'>"
+            },
+            {
+                "text": "littledinosaur_45",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/45.webp'>"
+            },
+            {
+                "text": "littledinosaur_15",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/15.webp'>"
+            },
+            {
+                "text": "littledinosaur_59",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/59.webp'>"
+            },
+            {
+                "text": "littledinosaur_52",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/52.webp'>"
+            },
+            {
+                "text": "littledinosaur_104",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/104.webp'>"
+            },
+            {
+                "text": "littledinosaur_77",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/77.webp'>"
+            },
+            {
+                "text": "littledinosaur_3",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/3.webp'>"
+            },
+            {
+                "text": "littledinosaur_46",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/46.webp'>"
+            },
+            {
+                "text": "littledinosaur_2",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/2.webp'>"
+            },
+            {
+                "text": "littledinosaur_24",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/24.webp'>"
+            },
+            {
+                "text": "littledinosaur_99",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/99.webp'>"
+            },
+            {
+                "text": "littledinosaur_91",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/91.webp'>"
+            },
+            {
+                "text": "littledinosaur_6",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/6.webp'>"
+            },
+            {
+                "text": "littledinosaur_85",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/85.webp'>"
+            },
+            {
+                "text": "littledinosaur_117",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/117.webp'>"
+            },
+            {
+                "text": "littledinosaur_81",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/81.webp'>"
+            },
+            {
+                "text": "littledinosaur_74",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/74.webp'>"
+            },
+            {
+                "text": "littledinosaur_102",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/102.webp'>"
+            },
+            {
+                "text": "littledinosaur_4",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/4.webp'>"
+            },
+            {
+                "text": "littledinosaur_21",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/21.webp'>"
+            },
+            {
+                "text": "littledinosaur_60",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/60.webp'>"
+            },
+            {
+                "text": "littledinosaur_115",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/115.webp'>"
+            },
+            {
+                "text": "littledinosaur_66",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/66.webp'>"
+            },
+            {
+                "text": "littledinosaur_61",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/61.webp'>"
+            },
+            {
+                "text": "littledinosaur_48",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/48.webp'>"
+            },
+            {
+                "text": "littledinosaur_67",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/67.webp'>"
+            },
+            {
+                "text": "littledinosaur_118",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/118.webp'>"
+            },
+            {
+                "text": "littledinosaur_13",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/13.webp'>"
+            },
+            {
+                "text": "littledinosaur_82",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/82.webp'>"
+            },
+            {
+                "text": "littledinosaur_1",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/1.webp'>"
+            },
+            {
+                "text": "littledinosaur_72",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/72.webp'>"
+            },
+            {
+                "text": "littledinosaur_112",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/112.webp'>"
+            },
+            {
+                "text": "littledinosaur_26",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/26.webp'>"
+            },
+            {
+                "text": "littledinosaur_108",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/108.webp'>"
+            },
+            {
+                "text": "littledinosaur_96",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/96.webp'>"
+            },
+            {
+                "text": "littledinosaur_62",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/62.webp'>"
+            },
+            {
+                "text": "littledinosaur_58",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/58.webp'>"
+            },
+            {
+                "text": "littledinosaur_34",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/34.webp'>"
+            },
+            {
+                "text": "littledinosaur_80",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/80.webp'>"
+            },
+            {
+                "text": "littledinosaur_47",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/47.webp'>"
+            },
+            {
+                "text": "littledinosaur_51",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/51.webp'>"
+            },
+            {
+                "text": "littledinosaur_9",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/9.webp'>"
+            },
+            {
+                "text": "littledinosaur_37",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/37.webp'>"
+            },
+            {
+                "text": "littledinosaur_30",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/30.webp'>"
+            },
+            {
+                "text": "littledinosaur_105",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/105.webp'>"
+            },
+            {
+                "text": "littledinosaur_63",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/63.webp'>"
+            },
+            {
+                "text": "littledinosaur_73",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/73.webp'>"
+            },
+            {
+                "text": "littledinosaur_113",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/113.webp'>"
+            },
+            {
+                "text": "littledinosaur_40",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/40.webp'>"
+            },
+            {
+                "text": "littledinosaur_38",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/38.webp'>"
+            },
+            {
+                "text": "littledinosaur_94",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/94.webp'>"
+            },
+            {
+                "text": "littledinosaur_31",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/31.webp'>"
+            },
+            {
+                "text": "littledinosaur_107",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/107.webp'>"
+            },
+            {
+                "text": "littledinosaur_88",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/88.webp'>"
+            },
+            {
+                "text": "littledinosaur_106",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/106.webp'>"
+            },
+            {
+                "text": "littledinosaur_100",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/100.webp'>"
+            },
+            {
+                "text": "littledinosaur_84",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/84.webp'>"
+            },
+            {
+                "text": "littledinosaur_23",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/23.webp'>"
+            },
+            {
+                "text": "littledinosaur_55",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/55.webp'>"
+            },
+            {
+                "text": "littledinosaur_89",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/89.webp'>"
+            },
+            {
+                "text": "littledinosaur_109",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/109.webp'>"
+            },
+            {
+                "text": "littledinosaur_68",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/68.webp'>"
+            },
+            {
+                "text": "littledinosaur_71",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/71.webp'>"
+            },
+            {
+                "text": "littledinosaur_83",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/83.webp'>"
+            },
+            {
+                "text": "littledinosaur_5",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/5.webp'>"
+            },
+            {
+                "text": "littledinosaur_79",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/79.webp'>"
+            },
+            {
+                "text": "littledinosaur_39",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/39.webp'>"
+            },
+            {
+                "text": "littledinosaur_65",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/65.webp'>"
+            },
+            {
+                "text": "littledinosaur_78",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/78.webp'>"
+            },
+            {
+                "text": "littledinosaur_32",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/32.webp'>"
+            },
+            {
+                "text": "littledinosaur_114",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/114.webp'>"
+            },
+            {
+                "text": "littledinosaur_42",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/42.webp'>"
+            },
+            {
+                "text": "littledinosaur_87",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/87.webp'>"
+            },
+            {
+                "text": "littledinosaur_16",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/16.webp'>"
+            },
+            {
+                "text": "littledinosaur_33",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/33.webp'>"
+            },
+            {
+                "text": "littledinosaur_35",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/35.webp'>"
+            },
+            {
+                "text": "littledinosaur_93",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/93.webp'>"
+            },
+            {
+                "text": "littledinosaur_92",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/92.webp'>"
+            },
+            {
+                "text": "littledinosaur_18",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/18.webp'>"
+            },
+            {
+                "text": "littledinosaur_14",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/14.webp'>"
+            },
+            {
+                "text": "littledinosaur_27",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/27.webp'>"
+            },
+            {
+                "text": "littledinosaur_10",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/littledinosaur/10.webp'>"
+            }
+        ]
+    }
+}

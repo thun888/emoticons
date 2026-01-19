@@ -1,0 +1,99 @@
+{
+    "吃吧小狗": {
+        "type": "image",
+        "container": [
+            {
+                "text": "chi-ba-xiao-gou_洗澡",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/洗澡.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_烦",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/烦.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_哭哭",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/哭哭.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_晚安",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/晚安.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_随便",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/随便.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_困",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/困.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_说话",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/说话.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_喜欢",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/喜欢.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_谢谢",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/谢谢.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_生气",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/生气.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_疑问",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/疑问.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_在干嘛",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/在干嘛.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_走吧",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/走吧.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_你好",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/你好.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_饿",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/饿.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_吃吧",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/吃吧.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_累",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/累.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_emm",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/emm.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_对不起",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/对不起.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_收到",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/收到.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_快点",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/快点.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_好的",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/好的.png'>"
+            },
+            {
+                "text": "chi-ba-xiao-gou_不行",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/chi-ba-xiao-gou/不行.png'>"
+            }
+        ]
+    }
+}

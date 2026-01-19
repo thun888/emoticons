@@ -1,0 +1,67 @@
+{
+    "团团小狐狸": {
+        "type": "image",
+        "container": [
+            {
+                "text": "tuantuanxiaohuli_晕",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/晕.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_赞",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/赞.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_无语",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/无语.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_探头",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/探头.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_emo",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/emo.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_谢谢",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/谢谢.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_疑问",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/疑问.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_开心",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/开心.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_加油",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/加油.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_酷",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/酷.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_感动哭",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/感动哭.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_哼",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/哼.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_生气",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/生气.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_流泪",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/流泪.webp'>"
+            },
+            {
+                "text": "tuantuanxiaohuli_晚安",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/tuantuanxiaohuli/晚安.webp'>"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "日行一牡丹": {
+        "type": "image",
+        "container": [
+            {
+                "text": "rxy_汗",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_han.webp'>"
+            },
+            {
+                "text": "rxy_人呢",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_renne.webp'>"
+            },
+            {
+                "text": "rxy_是的是的",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_yesyesyes.webp'>"
+            },
+            {
+                "text": "rxy_顶",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_ding.webp'>"
+            },
+            {
+                "text": "rxy_嗨",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_hi.webp'>"
+            },
+            {
+                "text": "rxy_睡觉中",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_sleepin.webp'>"
+            },
+            {
+                "text": "rxy_不愧是我",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_bukuishiwo.webp'>"
+            },
+            {
+                "text": "rxy_吃瓜",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_chigua.webp'>"
+            },
+            {
+                "text": "rxy_星星眼",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_star_eyes.webp'>"
+            },
+            {
+                "text": "rxy_什么",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_what.webp'>"
+            },
+            {
+                "text": "rxy_给你一朵花",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_giveuflower.webp'>"
+            },
+            {
+                "text": "rxy_指指点点",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_zhizhidiandian.webp'>"
+            },
+            {
+                "text": "rxy_贴贴",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_tietie.webp'>"
+            },
+            {
+                "text": "rxy_反转的你",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_reversed_you.webp'>"
+            },
+            {
+                "text": "rxy_就买它",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_justbuyit.webp'>"
+            },
+            {
+                "text": "rxy_爱你",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/rxy/rxy_loveu.webp'>"
+            }
+        ]
+    }
+}

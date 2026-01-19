@@ -1,0 +1,71 @@
+{
+    "比丢的日常": {
+        "type": "image",
+        "container": [
+            {
+                "text": "bi-diu-de-ri-chang_戳",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/8.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_惊",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/7.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_蹭",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/16.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_害羞",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/6.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_棒",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/10.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_欺负",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/11.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_吓",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/3.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_无聊",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/9.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_白白",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/12.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_睡觉",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/13.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_吃",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/2.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_路过",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/15.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_咦",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/4.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_红包",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/14.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_哭唧唧",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/5.gif'>"
+            },
+            {
+                "text": "bi-diu-de-ri-chang_biu",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/bi-diu-de-ri-chang/1.gif'>"
+            }
+        ]
+    }
+}

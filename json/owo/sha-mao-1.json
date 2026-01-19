@@ -1,0 +1,67 @@
+{
+    "鲨猫1": {
+        "type": "image",
+        "container": [
+            {
+                "text": "sha-mao-1_托腮",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/10.png'>"
+            },
+            {
+                "text": "sha-mao-1_捏脸",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/8.png'>"
+            },
+            {
+                "text": "sha-mao-1_别来沾边",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/3.png'>"
+            },
+            {
+                "text": "sha-mao-1_超凶",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/1.png'>"
+            },
+            {
+                "text": "sha-mao-1_盯",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/2.png'>"
+            },
+            {
+                "text": "sha-mao-1_伤心",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/9.png'>"
+            },
+            {
+                "text": "sha-mao-1_冲呀",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/15.png'>"
+            },
+            {
+                "text": "sha-mao-1_真的吗",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/4.png'>"
+            },
+            {
+                "text": "sha-mao-1_摸鱼",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/14.png'>"
+            },
+            {
+                "text": "sha-mao-1_拔刀了哦",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/11.png'>"
+            },
+            {
+                "text": "sha-mao-1_开心",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/7.png'>"
+            },
+            {
+                "text": "sha-mao-1_困",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/6.png'>"
+            },
+            {
+                "text": "sha-mao-1_惊讶",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/13.png'>"
+            },
+            {
+                "text": "sha-mao-1_无语",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/5.png'>"
+            },
+            {
+                "text": "sha-mao-1_起飞",
+                "icon": "<img src='https://emoticons.hzchu.top/emoticons/sha-mao-1/12.png'>"
+            }
+        ]
+    }
+}
