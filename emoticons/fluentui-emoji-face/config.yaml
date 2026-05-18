@@ -120,4 +120,4 @@ chinese_name: fluentui-emoji
 english_name: fluentui-emoji-face
 source: https://github.com/microsoft/fluentui-emoji/
 source_description: 提取了face部分
-tags: {}
+tags: ["Microsoft"]

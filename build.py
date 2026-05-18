@@ -95,9 +95,8 @@ for folder in tqdm(folders):
     # print(f"生成了 {owo_filename} 文件")
 
 
-    # 记录 artalk JSON 文件的引用路径
-    artalk_all_data.append(f"https://{domain}/{os.path.relpath(json_filename, current_dir).replace(os.sep, '/')}")
-
+    # 记录 artalk JSON 数据
+    artalk_all_data.append(json_data)
     # 将 config.yaml 转换为 JSON 并存储到 ./json/display/
     display_json_filename = os.path.join(json_dir, "display", f"{folder}.json")
     with open(display_json_filename, 'w', encoding='utf-8') as display_json_file:
@@ -111,10 +110,10 @@ artalk_all_filename = os.path.join(json_dir, "artalk_all.json")
 with open(artalk_all_filename, 'w', encoding='utf-8') as artalk_all_file:
     json.dump(artalk_all_data, artalk_all_file, ensure_ascii=False, indent=4)
 
-# 生成 display_all_list.json 文件
-display_all_filename = os.path.join(json_dir, "display_all_list.json")
-with open(display_all_filename, 'w', encoding='utf-8') as display_all_file:
-    json.dump(display_all_data, display_all_file, ensure_ascii=False, indent=4)
+# 生成 display_all_list.json 文件（已弃用，前端改为直接使用 display_all.json）
+# display_all_filename = os.path.join(json_dir, "display_all_list.json")
+# with open(display_all_filename, 'w', encoding='utf-8') as display_all_file:
+#     json.dump(display_all_data, display_all_file, ensure_ascii=False, indent=4)
 
 # print(f"生成了 {display_all_filename} 文件")
 

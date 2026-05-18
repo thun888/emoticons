@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/5e285c8b-b4af-4c23-9457-ef5ce1f00163" />
+  <img width="128" height="128" alt="image" src="./logo.webp" />
 
+# 表情包收集
 
   <a title="preview" href="https://emoticons.hzchu.top/"><img src="https://img.shields.io/badge/-✨ 在线预览-545759?style=for-the-badge" alt="online-preview"></a>
 
-  # 表情包收集
 </div>
 
 
@@ -85,7 +85,7 @@
 可以从现成的表情包集合下载：
 
 1. QQ: [telegra.ph](https://telegra.ph/%E5%B0%86QQ%E4%B8%8A%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E8%BD%AC%E6%8D%A2%E4%B8%BATelegram%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E7%9A%84%E8%B4%B4%E7%BA%B8-04-22)
-2. WeChat: [Funbox](https://github.com/Xposed-Modules-Repo/have.fun)
+2. WeChat: [Funbox](https://github.com/Xposed-Modules-Repo/have.fun)/[企业微信](https://blog.hzchu.top/2025/%E7%94%A8%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E8%8E%B7%E5%8F%96%E5%BE%AE%E4%BF%A1%E8%A1%A8%E6%83%85%E5%8C%85/)
 3. BiliBili: [Telegram: Launch @Enlysure_sticker_bot](https://t.me/Enlysure_sticker_bot)
 4. Telegram: [Telegram: Launch @StickerDownloader_obot](https://t.me/StickerDownloader_obot)
 
@@ -97,7 +97,7 @@
 2. 在 `emoticons/` 目录下创建一个**英文名称**的新文件夹。这个名称将作为表情包的唯一 ID。
 3. 将表情图片（如 `.png`, `.gif` 等）放入该文件夹中。
 4. 使用[tinypng](https://tinypng.com/)压缩（可选）
-5. 将格式转换为`webp`（可使用`XnConvert`）
+5. 将格式转换为`webp`（可使用`XnConvert`或[像素蒸发](https://moonvy.com/apps/PxEvapo/)之类转换工具）
 6. 运行 `create.py` 脚本，并按照提示操作：
    ```bash
    python create.py

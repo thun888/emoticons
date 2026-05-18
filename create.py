@@ -19,7 +19,7 @@ def main():
     source = get_user_input("请输入表情包的来源: ", default="无")
     source_description = get_user_input("请输入来源描述: ", default="表情包版权归原作者所有")
     tags_input = get_user_input("请输入标签(多个用逗号分隔): ")
-    tags = {}
+    tags = []
     if tags_input:
         tags = tags_input.split(',')
     # Gather file aliases for all files in the directory (excluding config.yaml)
