@@ -1,1 +1,5 @@
-tdqm
+tqdm
+requests
+pypinyin
+pyyaml
+python-dotenv

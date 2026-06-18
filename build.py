@@ -5,7 +5,7 @@ import yaml
 from tqdm import tqdm
 from toolkit.util import artalk_to_owo
 # 域名
-domain = "emoticons.hzchu.top"
+domain = "emoticons.assets.hzchu.top"
 
 # 获取当前目录路径
 current_dir = os.getcwd()
@@ -52,7 +52,9 @@ for folder in tqdm(folders):
                     aliases = config_data['aliases']
         except Exception as e:
             print(f"读取 {config_path} 时出错: {e}")
-
+    else:
+        print(f"警告: {config_path} 不存在")
+        exit(1)
     # 遍历文件夹中的所有文件
     for filename in os.listdir(folder_path):
         file_path = os.path.join(folder_path, filename)
@@ -83,7 +85,7 @@ for folder in tqdm(folders):
     # 将 JSON 数据写入文件（artalk）
     json_filename = os.path.join(json_dir, "artalk", f"{folder}.json")
     with open(json_filename, 'w', encoding='utf-8') as json_file:
-        json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+        json.dump(json_data, json_file, ensure_ascii=False, separators=(',', ':'))
     # print(f"生成了 {json_filename} 文件")
 
     # 将 artalk JSON 文件转换为 OWO 格式
@@ -91,7 +93,7 @@ for folder in tqdm(folders):
     # 将 OWO 数据写入文件（owo）
     owo_filename = os.path.join(json_dir, "owo", f"{folder}.json")
     with open(owo_filename, 'w', encoding='utf-8') as owo_file:
-        json.dump(owo_data, owo_file, ensure_ascii=False, indent=4)
+        json.dump(owo_data, owo_file, ensure_ascii=False, separators=(',', ':'))
     # print(f"生成了 {owo_filename} 文件")
 
 
@@ -100,7 +102,7 @@ for folder in tqdm(folders):
     # 将 config.yaml 转换为 JSON 并存储到 ./json/display/
     display_json_filename = os.path.join(json_dir, "display", f"{folder}.json")
     with open(display_json_filename, 'w', encoding='utf-8') as display_json_file:
-        json.dump(config_data, display_json_file, ensure_ascii=False, indent=4)
+        json.dump(config_data, display_json_file, ensure_ascii=False, separators=(',', ':'))
     display_all_data.append(f"https://{domain}/{os.path.relpath(display_json_filename, current_dir).replace(os.sep, '/')}")
 
     # print(f"生成了 {display_json_filename} 文件")
@@ -108,12 +110,12 @@ for folder in tqdm(folders):
 # 生成 artalk_all.json 文件
 artalk_all_filename = os.path.join(json_dir, "artalk_all.json")
 with open(artalk_all_filename, 'w', encoding='utf-8') as artalk_all_file:
-    json.dump(artalk_all_data, artalk_all_file, ensure_ascii=False, indent=4)
+    json.dump(artalk_all_data, artalk_all_file, ensure_ascii=False, separators=(',', ':'))
 
 # 生成 display_all_list.json 文件（已弃用，前端改为直接使用 display_all.json）
 # display_all_filename = os.path.join(json_dir, "display_all_list.json")
 # with open(display_all_filename, 'w', encoding='utf-8') as display_all_file:
-#     json.dump(display_all_data, display_all_file, ensure_ascii=False, indent=4)
+#     json.dump(display_all_data, display_all_file, ensure_ascii=False, separators=(',', ':'))
 
 # print(f"生成了 {display_all_filename} 文件")
 
@@ -130,6 +132,6 @@ for filename in os.listdir(display_dir):
 # 将合并后的数据写入 display_all.json
 display_all_merged_filename = os.path.join(json_dir, 'display_all.json')
 with open(display_all_merged_filename, 'w', encoding='utf-8') as display_all_merged_file:
-    json.dump(display_all_merged, display_all_merged_file, ensure_ascii=False, indent=4)
+    json.dump(display_all_merged, display_all_merged_file, ensure_ascii=False, separators=(',', ':'))
 
 # print(f"生成了 {display_all_merged_filename} 文件")
